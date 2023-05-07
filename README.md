@@ -1,0 +1,2 @@
+# categories
+site categories template
